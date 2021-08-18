@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+
+.btn-check
+{
+    margin-top: 1rem;
+}
+
+.input
+{
+    font-size: large;
+    width: 256px;
+}
+
+.label{
+    font-size: larger;
+  margin: 0.5rem;
+}
+
+.inputRadio{
+    display: inline-flex;
+}
+
+.question
+{
+    margin: 50px;;
+}
+
+.btn-check{
+    font-size: 1rem;
+    padding: 15px;
+    border: none;
+    border: 2px solid black;
+    border-radius: 1rem;
+    background-color: #7FFFD4;
+}
